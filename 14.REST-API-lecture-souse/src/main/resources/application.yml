@@ -1,0 +1,2 @@
+springdoc:
+  packages-to-scan: com.ohgiraffers.restapi.section05
